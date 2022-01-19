@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice-jest",
+  "version": "1.0.0",
+  "description": "A Javascript Project in The Odin Project Curriculum. Use Jest as a test-running system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexus0208/Testing-Practice-Jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexus0208/Testing-Practice-Jest/issues"
+  },
+  "homepage": "https://github.com/nexus0208/Testing-Practice-Jest#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
