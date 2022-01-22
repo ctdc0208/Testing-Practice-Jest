@@ -14,8 +14,3 @@ function calculator(n1, operator, n2) {
     return result;
   };   
     module.exports = calculator;
-
-  calculator(1, "add", 2);
-  calculator(1, "subtract", 2);
-  calculator(1, "multiply", 2);
-  calculator(1, "divide", 2);
